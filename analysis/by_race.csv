@@ -1,0 +1,5 @@
+race,n,avg_word_count,avg_sentiment,avg_bias_flags,avg_risk_words,avg_positive_words
+Asian,42,221.24,0.11,3.14,2.05,1.31
+Black,49,206.55,0.12,3.2,1.31,1.2
+Hispanic,53,223.28,0.13,3.04,1.92,1.26
+White,52,205.54,0.12,2.75,1.83,0.88

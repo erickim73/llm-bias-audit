@@ -1,0 +1,4 @@
+income,n,avg_word_count,avg_sentiment,avg_bias_flags,avg_risk_words,avg_positive_words
+low-income,65,227.69,0.12,2.6,1.98,1.03
+middle-class,65,222.05,0.12,3.06,1.91,1.03
+wealthy,66,192.45,0.12,3.41,1.42,1.41
