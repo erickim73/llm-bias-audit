@@ -74,3 +74,7 @@ This audit was designed in compliance with the **ACM Code of Ethics**, specifica
 - Keyword-based bias-flagging may miss subtle semantic patterns
 - Three demographic dimensions; many others (age, disability, religion, sexual orientation) unexamined
 - 20 of 216 planned API calls failed due to service overload; future work should retry these
+
+## AI Disclosure
+ 
+Code scaffolding, chart generating, and prose drafting were assisted by Claude Opus (Anthropic). All scenario design, methodology decisions, interpretive claims, and final wording are the author’s (Eric Kim) own work. Claude was used in the manner the AI policy encourages: brainstorming, debugging, and editing, not for generating the thinking itself. 
